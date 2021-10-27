@@ -26,7 +26,7 @@ result of economic hardship caused by the pandemic.
 an increase in anti-China rhetoric during the pandemic.
 
 
-Through this project, I will:
+Through this project, we will:
 
 - Explore the data
 - Perform the needed data wrangling and manipulation
