@@ -16,7 +16,6 @@ Research has also shown that rising unemployment can lead to an increase in prop
 This project seeks to investigate the impact of the pandemic on crime in New York City by
 analyzing NYPD crime data.
 
-Hypotheses
 Our research will investigate the following hypotheses:
 1. We expect overall crime to decline in 2020 versus 2019 as a result of lock-downs due to
 the pandemic.
